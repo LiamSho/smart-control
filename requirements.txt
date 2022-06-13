@@ -1,7 +1,5 @@
 protobuf==3.20.1
-tensorflow-macos==2.8.0
-tensorflow-deps==2.8.0
-tensorflow-metal==0.4.0
+tensorflow==2.8.0
 matplotlib==3.5.2
 scikit-learn==1.1.1
 imbalanced-learn==0.9.1
